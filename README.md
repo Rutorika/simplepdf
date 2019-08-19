@@ -3,6 +3,11 @@
 Usage
 
 ```
+<?php
+
+use Rutorika\Simplepdf\Simplepdf;
+use Rutorika\Simplepdf\SimplepdfBuilder;
+
 $template   = \resource_path('pdf/form.pdf');
 $fontFile   = \resource_path('pdf/font.ttf');
 $fontSize   = 20;
