@@ -1,5 +1,23 @@
 # Rutorika Simplepdf
 
+Requirements:
+
+* **pdftk**
+
+Install **pdftk** on the Alpine
+
+```
+apk add pdftk
+```
+
+Install **pdftk** on the Ubuntu
+
+```
+sudo add-apt-repository ppa:malteworld/ppa
+sudo apt update
+sudo apt install pdftk
+```
+
 Usage
 
 ```
