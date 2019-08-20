@@ -18,6 +18,12 @@ sudo apt update
 sudo apt install pdftk
 ```
 
+Install package
+
+```
+composer require rutorika/simplepdf
+```
+
 Usage
 
 ```
